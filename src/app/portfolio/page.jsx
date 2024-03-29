@@ -29,15 +29,15 @@ const PortfolioPage = () => {
       color: "from-violet-300 to-purple-300",
       title: "AfriqMarketHub",
       desc: "AfriqMarketHub: Redefining online shopping with a diverse product range, seamless user experience, and secure transactions. Trust us for reliable delivery and an unparalleled shopping journey. Join us today for the ultimate convenience in e-commerce.",
-      img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      img: "/afriqmarkethub.png",
       link: "https://afriqmarkethub.azsolutionspk.com/",
     },
     {
       id: 4,
       color: "from-purple-300 to-red-300",
-      title: "HuntFish.Live: Enhancing the Hunter's Experience",
+      title: "HuntFish.Live",
       desc: "Introducing HuntFish.Live: the ultimate platform for hunters. Stream your hunting adventures live and discover real-time animal locations for optimized hunting success. Join our community and experience the thrill of the hunt like never before!",
-      img: "https://images.pexels.com/photos/18540208/pexels-photo-18540208/free-photo-of-wood-landscape-water-hill.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      img: "/huntfish.png",
       link: "https://huntcheck.azsolutionspk.com",
     },
   ];
