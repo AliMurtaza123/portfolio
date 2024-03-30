@@ -95,7 +95,7 @@ const AboutPage = () => {
             <motion.div
               initial={{ x: -300 }}
               animate={isSkillRefInView ? { x: 0 } : {}}
-              transition={{ delay: 0.2 }}
+              transition={{ delay: 0.4 }}
               className="flex gap-4 flex-wrap"
             >
               <div className="rounded p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black border-2 border-black">
@@ -207,9 +207,7 @@ const AboutPage = () => {
                   {/* job DESC */}
                   <div className="p-3 text-sm italic">
                     {" "}
-                    Proficientincreating dynamic and userfriendly web
-                    applications, collaborating effectively within
-                    multidisciplinary teams to deliver high quality projects.
+                    During my tenure at AZ-Solutions, I honed my skills as a full stack developer, contributing to the development of dynamic web applications using technologies such as React, Node.js, and MongoDB. I collaborated closely with cross-functional teams to deliver high-quality solutions that met client requirements and exceeded expectations.
                   </div>
                   {/* job DATE */}
                   <div className="p-3 text-red-600 text-sm font-semibold">
@@ -256,9 +254,7 @@ const AboutPage = () => {
                   {/* job DESC */}
                   <div className="p-3 text-sm italic">
                     {" "}
-                    Proficientincreating dynamic and userfriendly web
-                    applications, collaborating effectively within
-                    multidisciplinary teams to deliver high quality projects.
+                    At ABL Tech, I played a key role in architecting and implementing full stack solutions, leveraging my expertise in HTML, CSS, JavaScript, and PHP. Working in an agile environment, I led the development of scalable applications, optimized database performance, and integrated third-party APIs, resulting in enhanced user experiences and increased customer satisfaction
                   </div>
                   {/* job DATE */}
                   <div className="p-3 text-red-600 text-sm font-semibold">
@@ -286,7 +282,7 @@ const AboutPage = () => {
                   {/* job DESC */}
                   <div className="p-3 text-sm italic">
                     {" "}
-                    My current employement way better than the position before!
+                    As part of the development team at Mia Associates, I showcased my proficiency in React Native, Laravel, and MySQL to build versatile mobile and web applications. From designing responsive user interfaces to implementing robust backend functionalities, I consistently delivered innovative solutions that drove business growth and positioned the company for success in the competitive market.
                   </div>
                   {/* job DATE */}
                   <div className="p-3 text-red-600 text-sm font-semibold">
