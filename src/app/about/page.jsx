@@ -207,7 +207,7 @@ const AboutPage = () => {
                   {/* job DESC */}
                   <div className="p-3 text-sm italic">
                     {" "}
-                    During my tenure at AZ-Solutions, I honed my skills as a full stack developer, contributing to the development of dynamic web applications using technologies such as React, Node.js, and MongoDB. I collaborated closely with cross-functional teams to deliver high-quality solutions that met client requirements and exceeded expectations.
+                    During my tenure at AZ-Solutions, I honed my skills as a full stack developer, contributing to the development of dynamic web applications using technologies such as React, Node.js, and MongoDB. 
                   </div>
                   {/* job DATE */}
                   <div className="p-3 text-red-600 text-sm font-semibold">
