@@ -13,7 +13,7 @@ const PortfolioPage = () => {
       color: "from-red-300 to-blue-300",
       title: "MotorModz",
       desc: "MotorModz: A versatile web application empowering multiple vendors to showcase and sell their diverse range of products within the automotive industry.",
-      img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      img: "/motormodz.png",
       link: "https://motormodz.com",
     },
     {
