@@ -18,6 +18,14 @@ const PortfolioPage = () => {
     },
     {
       id: 2,
+      color: "from-red-300 to-blue-300",
+      title: "Ride ShareX",
+      desc: "Introducing RideShareX, a dynamic Uber clone project designed for seamless transportation solutions. With its intuitive interface, real-time tracking, and transparent pricing, RideShareX ensures a convenient and reliable ride-hailing experience for users. Experience the future of urban mobility with RideShareX today.",
+      img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      link: "https://github.com/AliMurtaza123/Uberclone",
+    },
+    {
+      id: 3,
       color: "from-blue-300 to-violet-300",
       title: "React-Native Quiz Appx",
       desc: "Introducing our mobile app, a comprehensive learning platform where users can engage in live quizzes and enrich their knowledge on-the-go. With interactive features and real-time feedback, users can immerse themselves in an engaging learning experience anytime, anywhere. Join our community and elevate your learning journey with our innovative mobile app today!",
@@ -25,7 +33,7 @@ const PortfolioPage = () => {
       link: "https://github.com/AliMurtaza123/TeachTok",
     },
     {
-      id: 3,
+      id: 4,
       color: "from-violet-300 to-purple-300",
       title: "AfriqMarketHub",
       desc: "AfriqMarketHub: Redefining online shopping with a diverse product range, seamless user experience, and secure transactions. Trust us for reliable delivery and an unparalleled shopping journey. Join us today for the ultimate convenience in e-commerce.",
@@ -33,7 +41,7 @@ const PortfolioPage = () => {
       link: "https://afriqmarkethub.azsolutionspk.com/",
     },
     {
-      id: 4,
+      id: 5,
       color: "from-purple-300 to-red-300",
       title: "HuntFish.Live",
       desc: "Introducing HuntFish.Live: the ultimate platform for hunters. Stream your hunting adventures live and discover real-time animal locations for optimized hunting success. Join our community and experience the thrill of the hunt like never before!",
