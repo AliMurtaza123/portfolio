@@ -40,7 +40,14 @@ const PortfolioPage = () => {
       img: "/huntfish.png",
       link: "https://huntcheck.azsolutionspk.com",
     },
-    
+     {
+      id: 5,
+      color: "from-red-300 to-blue-300",
+      title: "Ride ShareX",
+      desc: "Introducing RideShareX, a dynamic Uber clone project designed for seamless transportation solutions. With its intuitive interface, real-time tracking, and transparent pricing, RideShareX ensures a convenient and reliable ride-hailing experience for users. Experience the future of urban mobility with RideShareX today.",
+      img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      link: "https://github.com/AliMurtaza123/Uberclone",
+    },
   ];
 
   const x = useTransform(scrollYProgress, [0, 1], ["0%", "-80%"]);
